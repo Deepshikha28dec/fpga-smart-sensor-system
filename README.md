@@ -1,4 +1,4 @@
-# FPGA Smart Sensor & Gesture Controller
+# FPGA based Gesture Controller
 
 FPGA-based embedded sensing project implemented in Verilog.
 
