@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# FPGA build artifacts
+build/
+*.bin
+*.asc
+*.json
+*.blif
+*.rpt
+*.log
+
+# Simulation output
+*.vcd
+*.fst
+*.lxt
+
+# Temporary/editor files
+.vscode/
+*.swp
+*~
